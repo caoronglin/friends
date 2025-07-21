@@ -18,7 +18,7 @@
 
 **如何提交意向申请？**
 
-按照 [Issue 模板](https://github.com/xaoxuu/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
+按照 [Issue 模板](https://github.com/caoronglin/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
 
 <br>
 
@@ -27,12 +27,12 @@
 当你添加本站友链时，建议复制以下信息：
 
 ```yaml
-title: xaoxuu
-url: https://xaoxuu.com
-avatar: https://cn.cravatar.com/avatar/15e59a60168a6ce1bfc3eddfca8c5a54?s=512
+title: 麟.
+url: https://www.cnortles.top
+avatar: https://cn.cravatar.com/avatar/CCD8F314FA07A831AC3F0E298B0D256B?s=512
 screenshot: https://xaoxuu.com/assets/xaoxuu/2022/10/23/63542895cfd29.png
-description: For all time, always.
-feed: https://xaoxuu.com/atom.xml
+description: 愿极光，永不消逝。
+feed: https://www.cnortles.top/atom.xml
 ```
 
 > 头像地址末尾的 `s=512` 是尺寸，如果显示框架较小可以自行调节至合适的尺寸。
